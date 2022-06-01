@@ -1,1 +1,1 @@
-# Demonstration-Duided-Motion-Planning
+# Demonstration-Guided-Motion-Planning
