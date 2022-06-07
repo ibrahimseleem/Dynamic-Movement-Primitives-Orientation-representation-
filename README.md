@@ -1,4 +1,4 @@
-# Demonstration-Guided-Motion-Planning
+# Dynamic-Movement-Primitives (Orientation representation)
  Author:  Ibrahim A. Seleem
  Website: https://orcid.org/0000-0002-3733-4982
 
