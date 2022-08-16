@@ -1,4 +1,4 @@
-function [ theta,trajectory,trajectory3] = dmptrain_2(trajectory,order,n_basis_functions)
+function [ theta,trajectory,trajectory3] = dmptrain(trajectory,order,n_basis_functions)
        
 
 time= trajectory.t(end);
