@@ -40,6 +40,6 @@
  
  How to use the toolbox:
  
- 1- Run main_RUN.m (change the number of basis function to enhance the DMP performance)
- 
- 2- Add your own orinetation data in quaternion format in  generateTrajquat.m.
+ 1- Install robotic toolbox
+ 2- Run main_RUN.m (change the number of basis function to enhance the DMP performance)
+ 3- Add your own orinetation data in quaternion format in  generateTrajquat.m.
